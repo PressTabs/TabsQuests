@@ -1,0 +1,5 @@
+name: TabsQuests
+version: ${project.version}
+main: tech.presstabs.tabsquests.TabsQuests
+authors: [ PressTabs ]
+description: A simple quest framework that can be grown into a more functional quest system.
